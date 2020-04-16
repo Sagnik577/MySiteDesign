@@ -179,7 +179,12 @@ h3{
 .footer-link{
 
   position: relative;
-  left: 20px;
+ 
+  text-decoration: none;
+  color: rgb(47, 47, 82);
+}
+.end{
+    margin-bottom: 0;
 }
 
 
