@@ -15,6 +15,7 @@ h1{
     margin-top: 0px;
       position: relative;
     top: 50px;
+    font-size: 200px;
    
     
     
@@ -27,13 +28,14 @@ h1{
 .bottom-cloud{
 
     position: absolute;
+    right: 950px;
 }
 
 
 .top-cloud{
 
     position: relative;
-    left: 200px;
+    left: 300px;
     top: 50px;
 }
 
